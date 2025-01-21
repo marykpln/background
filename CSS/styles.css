@@ -1,7 +1,7 @@
 body {
-  background: url(/images/bg-sanfrancisco.jpg);
-  background-repeat: no-repeat;
+  background: url(/images/wintery-sunburst.svg);
   background-size: cover;
-  height: 300vh;
+  height: 100vh;
+  background-repeat: no-repeat;
   background-attachment: fixed;
 }
